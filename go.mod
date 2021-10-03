@@ -1,5 +1,6 @@
 module task-tracker/src
 
+//+heroku goVersion go1.17
 go 1.17
 
 require gorm.io/driver/postgres v1.1.2
